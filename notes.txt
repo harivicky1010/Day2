@@ -1,0 +1,27 @@
+difference between document and window object:
+
+Document:
+
+     * document is represent a web page that is loaded in a browser.
+
+     * It is the object of window property.
+
+     * we can add dynamic content to our webpages
+
+     * by accesing the documet object, we can access the element in the HTML page.
+
+     * document also have properties.
+       Example: proerties => open, write, writeIn, close, script, title.
+                
+
+Window & Object:
+
+     * The window object represents an open window in a browser
+
+     * If a document contain frames the browser creates one window object for the HTML document, 
+       and one additional window object for each frame.
+
+     * window objects also have a properties and methods
+       
+       Example: properties => console, innerheight, innerwidth, length, location
+                   methods => open close, alert, prompt.
